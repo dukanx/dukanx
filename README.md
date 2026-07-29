@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/University_of_Belgrade,_FON-1f2328?style=flat-square&logo=bookstack&logoColor=white" alt="University of Belgrade, FON">
 </p>
 
-Software Engineering graduate from the University of Belgrade (FON), with practical experience
-across the full stack. I like building things end to end: REST APIs and relational databases
+Finishing my B.Sc. in Software Engineering at the University of Belgrade (FON), with practical
+experience across the full stack. I like building things end to end: REST APIs and relational databases
 underneath, modern frontends on top, and increasingly LLM-assisted data workflows in between.
 
 Currently interning as an **AI Developer at Appworks**, working on a Python backend for AI-driven
