@@ -126,6 +126,12 @@ Real-time client/server communication, authentication, and database-backed opera
 ## GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dukanx&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukanx&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dukanx&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dukanx&theme=github" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dukanx&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dukanx&theme=github" alt="Top languages">
+  </picture>
 </p>
