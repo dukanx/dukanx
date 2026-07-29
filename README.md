@@ -16,8 +16,9 @@ Fourth-year Software Engineering student with practical experience across the fu
 I like building things end to end — REST APIs and relational databases underneath, modern
 frontends on top, and increasingly LLM-assisted data workflows in between.
 
-Currently co-developing a tourism platform as a startup project, and extending my job-market
-analysis into a bachelor's thesis on salary prediction.
+Currently interning as an **AI Developer at Appworks**, working on a Python backend for AI-driven
+media processing — transcription, translation, subtitling, speaker diarization and video dubbing.
+On the side, extending my job-market analysis into a bachelor's thesis on salary prediction.
 
 ## Tech Stack
 
@@ -35,13 +36,6 @@ analysis into a bachelor's thesis on salary prediction.
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/dukanx/Village-Booker">
-        <img src="assets/village-booker.png" width="72" alt="Village Booker"><br>
-        <b>Village Booker</b>
-      </a><br>
-      <sub>Tourism platform, built<br>with a 5-person team<br><i>Spring Boot · React · PostgreSQL</i></sub>
-    </td>
     <td align="center" width="150">
       <a href="https://github.com/dukanx/GLUMAC-PLUS">
         <img src="assets/glumacplus.png" width="72" alt="GlumacPlus"><br>
@@ -61,7 +55,7 @@ analysis into a bachelor's thesis on salary prediction.
         <img src="assets/nap.png" width="72" alt="IT Job Market Analysis"><br>
         <b>Job Market Analysis</b>
       </a><br>
-      <sub>LLM extraction + network<br>analysis of 1,460 postings<br><i>Python · Groq · NetworkX</i></sub>
+      <sub>LLM extraction + network<br>analysis of IT job ads<br><i>Python · Groq · NetworkX</i></sub>
     </td>
   </tr>
   <tr>
@@ -120,8 +114,8 @@ Real-time client/server communication, authentication, and database-backed opera
 |---|---|
 | **B.Sc. Software Engineering** — University of Belgrade, FON | 2022 – present |
 | **Ninth Gymnasium "Mihailo Petrović Alas"** — Natural Sciences & Mathematics | 2018 – 2022 |
+| **AI Developer Intern** — Appworks *(Python backend for AI media processing)* | 2026 – present |
 | **Co-owner & Technical Lead** — Glumac Plus *(family restaurant; building its ordering system)* | 2023 – present |
-| **Bicycle Courier** — Wolt | 2024 – 2025 |
 
 ## GitHub
 
