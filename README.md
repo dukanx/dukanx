@@ -48,7 +48,7 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
         <img src="assets/fon-raspored.png" width="72" alt="FON Raspored"><br>
         <b>FON Raspored</b>
       </a><br>
-      <sub>Class schedule PWA<br>with push notifications<br><i>Next.js · Python · Actions</i></sub>
+      <sub>Class schedule PWA<br>with push notifications<br><i>Next.js · Python · Actions</i><br><a href="https://fon-raspored-five.vercel.app">live demo ↗</a></sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/dukanx/Napredna_analiza_podataka_Projekat-Job_Postings_Analysis">
@@ -71,7 +71,7 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
         <img src="assets/second-brain.png" width="72" alt="Second Brain"><br>
         <b>Second Brain</b>
       </a><br>
-      <sub>AI knowledge capture<br>and synthesis tool<br><i>Next.js · Supabase · LLM</i></sub>
+      <sub>AI knowledge capture<br>and synthesis tool<br><i>Next.js · Supabase · LLM</i><br><a href="https://second-brain-three-pi.vercel.app">live demo ↗</a></sub>
     </td>
     <td align="center" width="150">
       <a href="https://github.com/dukanx/srecna-biljka">
@@ -92,7 +92,7 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
 A compliance console that screens Solana deposits for sanctions exposure, tracing senders through a
 simulated on-chain transaction graph to produce a deterministic, explainable risk verdict. Includes
 behavioral identity-linking and zk-STARK "proof-of-innocence" for private deposits.
-`React` `TypeScript` `FastAPI` `NetworkX`
+`React` `TypeScript` `FastAPI` `NetworkX` — [video demo ↗](https://www.loom.com/share/a16fba140af24a01882342c3a6afbe61)
 
 **[Running Partner Finder](https://github.com/dukanx/Partneri-za-trcanje)** — Full-stack runner-matching web app
 JWT auth, Leaflet maps, Cloudinary image hosting, Swagger/OpenAPI docs. Multi-layer security work
