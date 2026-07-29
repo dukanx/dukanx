@@ -43,21 +43,21 @@ analysis into a bachelor's thesis on salary prediction.
       <sub>Tourism platform, built<br>with a 5-person team<br><i>Spring Boot · React · PostgreSQL</i></sub>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/dukanx/NJT">
+      <a href="https://github.com/dukanx/GLUMAC-PLUS">
         <img src="assets/glumacplus.png" width="72" alt="GlumacPlus"><br>
         <b>Glumac Plus</b>
       </a><br>
       <sub>Restaurant ordering<br>& management system<br><i>Spring Boot · React · JWT</i></sub>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/dukanx/FON_raspored">
+      <a href="https://github.com/dukanx/fon-raspored">
         <img src="assets/fon-raspored.png" width="72" alt="FON Raspored"><br>
         <b>FON Raspored</b>
       </a><br>
       <sub>Class schedule PWA<br>with push notifications<br><i>Next.js · Python · Actions</i></sub>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/dukanx/NAP">
+      <a href="https://github.com/dukanx/Napredna_analiza_podataka_Projekat-Job_Postings_Analysis">
         <img src="assets/nap.png" width="72" alt="IT Job Market Analysis"><br>
         <b>Job Market Analysis</b>
       </a><br>
@@ -101,13 +101,13 @@ analysis into a bachelor's thesis on salary prediction.
 
 <br>
 
-**SentinelFlow** — Crypto sanctions & AML screening *(Garaža Hack, 2026)*
+**[SentinelFlow](https://github.com/dukanx/SentinelFlow-fintech-hackathon)** — Crypto sanctions & AML screening *(Garaža Hack, 2026)*
 A compliance console that screens Solana deposits for sanctions exposure, tracing senders through a
 simulated on-chain transaction graph to produce a deterministic, explainable risk verdict. Includes
 behavioral identity-linking and zk-STARK "proof-of-innocence" for private deposits.
 `React` `TypeScript` `FastAPI` `NetworkX`
 
-**Running Partner Finder** — Full-stack runner-matching web app
+**[Running Partner Finder](https://github.com/dukanx/Partneri-za-trcanje)** — Full-stack runner-matching web app
 JWT auth, Leaflet maps, Cloudinary image hosting, Swagger/OpenAPI docs. Multi-layer security work
 (CSRF, IDOR, XSS), dockerized with a GitHub Actions pipeline deploying to Render.
 `Next.js` `TypeScript` `Prisma` `Docker`
@@ -116,7 +116,7 @@ JWT auth, Leaflet maps, Cloudinary image hosting, Swagger/OpenAPI docs. Multi-la
 Real-time client/server communication, authentication, and database-backed operations behind a Swing GUI.
 `Java` `Sockets` `MySQL` `Swing`
 
-**Custom grep** — Simplified Unix `grep` with substring search and basic pattern matching.
+**[Custom grep](https://github.com/dukanx/GREP)** — Simplified Unix `grep` with substring search and basic pattern matching.
 `C`
 
 </details>
