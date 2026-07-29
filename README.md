@@ -35,7 +35,7 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/GLUMAC-PLUS">
         <img src="assets/glumacplus.png" width="96" alt="Glumac Plus"><br>
         <b>Glumac Plus</b>
@@ -44,7 +44,7 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
       staff dashboard and loyalty program</sub><br>
       <sub><i>Spring Boot · React · PostgreSQL · JWT</i></sub></p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/fon-raspored">
         <img src="assets/fon-raspored.png" width="96" alt="FON Raspored"><br>
         <b>FON Raspored</b>
@@ -52,9 +52,9 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
       <p><sub>Installable class schedule PWA with web push, built on a custom<br>
       PDF parser and scheduled scraping</sub><br>
       <sub><i>Next.js · Python · GitHub Actions</i></sub><br>
-      <sub><a href="https://fon-raspored-five.vercel.app">live demo ↗</a></sub></p>
+      <sub><a href="https://fon-raspored-five.vercel.app">live app ↗</a></sub></p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/Napredna_analiza_podataka_Projekat-Job_Postings_Analysis">
         <img src="assets/nap.png" width="96" alt="Job Market Analysis"><br>
         <b>Job Market Analysis</b>
@@ -65,16 +65,17 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/Hearth">
         <img src="assets/hearth.png" width="96" alt="Hearth"><br>
         <b>Hearth</b>
       </a>
       <p><sub>Household organizer with shared tasks, role-scoped permissions<br>
       and realtime notifications</sub><br>
-      <sub><i>.NET · Clean Architecture · SignalR · React</i></sub></p>
+      <sub><i>.NET · Clean Architecture · SignalR · React</i></sub><br>
+      <sub><a href="https://hearth-production-3819.up.railway.app">live app ↗</a></sub></p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/Second-Brain">
         <img src="assets/second-brain.png" width="96" alt="Second Brain"><br>
         <b>Second Brain</b>
@@ -82,9 +83,9 @@ On the side, extending my job-market analysis into a bachelor's thesis on salary
       <p><sub>AI knowledge capture tool that surfaces connections between<br>
       notes, links and tasks</sub><br>
       <sub><i>Next.js · Supabase · LLM APIs</i></sub><br>
-      <sub><a href="https://second-brain-three-pi.vercel.app">live demo ↗</a></sub></p>
+      <sub><a href="https://second-brain-three-pi.vercel.app">live app ↗</a></sub></p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/srecna-biljka">
         <img src="assets/srecna-biljka.png" width="96" alt="Srećna biljka"><br>
         <b>Srećna biljka</b>
@@ -110,7 +111,7 @@ behavioral identity-linking and zk-STARK "proof-of-innocence" for private deposi
 **[Running Partner Finder](https://github.com/dukanx/Partneri-za-trcanje)** · Full-stack runner-matching web app
 JWT auth, Leaflet maps, Cloudinary image hosting, Swagger/OpenAPI docs. Multi-layer security work
 (CSRF, IDOR, XSS), dockerized with a GitHub Actions pipeline deploying to Render.
-`Next.js` `TypeScript` `Prisma` `Docker` · [live demo ↗](https://trep-app.onrender.com/)
+`Next.js` `TypeScript` `Prisma` `Docker` · [live app ↗](https://trep-app.onrender.com/)
 
 **Pancake Shop Management System** · Java client-server system over raw sockets
 Real-time client/server communication, authentication, and database-backed operations behind a Swing GUI.
