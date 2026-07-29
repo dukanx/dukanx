@@ -86,13 +86,6 @@ analysis into a bachelor's thesis on salary prediction.
       </a><br>
       <sub>IoT plant monitoring<br>with web push<br><i>ESP32 · Flask · Python</i></sub>
     </td>
-    <td align="center" width="150">
-      <a href="https://github.com/dukanx/putin-bear">
-        <img src="assets/putin-bear.png" width="72" alt="Putin Bear"><br>
-        <b>Putin Bear</b>
-      </a><br>
-      <sub>Browser arcade game,<br>installable as a PWA<br><i>Vanilla JS · PWA</i></sub>
-    </td>
   </tr>
 </table>
 
