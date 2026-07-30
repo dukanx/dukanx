@@ -12,11 +12,15 @@
 
 Finishing my B.Sc. in Software Engineering at the University of Belgrade (FON), with practical
 experience across the full stack. I like building things end to end: REST APIs and relational databases
-underneath, modern frontends on top, and increasingly LLM-assisted data workflows in between.
+underneath, modern frontends on top, increasingly LLM-assisted data workflows in between.... 
 
-Currently interning as an **AI Developer at Appworks**, working on a Python backend for AI-driven
-media processing: transcription, translation, subtitling, speaker diarization and video dubbing.
-On the side, extending my job-market analysis into a bachelor's thesis on salary prediction.
+
+You've probably seen the polished version on my resume already.
+Now let's take a look at what I've actually been building lately.
+
+I'm currently interning as an **AI Developer at Appworks**, working on a Python backend for AI-driven
+media processing: transcription, translation, subtitling, video dubbing...
+On the side, turning my job-market analysis into a bachelor's thesis on salary prediction, while preparing my family's food ordering app for production.
 
 ## Tech Stack
 
