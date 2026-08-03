@@ -134,16 +134,3 @@ Real-time client/server communication, authentication, and database-backed opera
 | **B.Sc. Software Engineering**, University of Belgrade, FON | 2022 - 2026 |
 | **Co-owner & Technical Lead**, Glumac Plus *(family restaurant; building its ordering system)* | 2023 - present |
 | **AI Developer Intern**, Appworks *(Python backend for AI media processing)* | 2026 - present |
-
-## GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dukanx&theme=github_dark">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dukanx&theme=github" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dukanx&theme=github_dark">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dukanx&theme=github" alt="Top languages">
-  </picture>
-</p>
