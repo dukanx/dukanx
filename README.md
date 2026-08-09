@@ -56,7 +56,7 @@ On the side, turning my job-market analysis into a bachelor's thesis on salary p
       <p><sub>Installable class schedule PWA with web push, built on a custom<br>
       PDF parser and scheduled scraping</sub><br>
       <sub><i>Next.js · Python · GitHub Actions</i></sub><br>
-      <sub><a href="https://fon-raspored-five.vercel.app">live app ↗</a></sub></p>
+      <sub><a href="https://fonraspored.rs>live app ↗</a></sub></p>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://github.com/dukanx/Napredna_analiza_podataka_Projekat-Job_Postings_Analysis">
