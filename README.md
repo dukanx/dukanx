@@ -96,7 +96,8 @@ On the side, turning my job-market analysis into a bachelor's thesis on salary p
       </a>
       <p><sub>IoT plant monitor that pushes a notification the moment the<br>
       plant's state changes</sub><br>
-      <sub><i>ESP32 · Flask · PostgreSQL · Web Push</i></sub></p>
+      <sub><i>ESP32 · Flask · PostgreSQL · Web Push</i></sub>
+      <sub><a href="https://srecna-biljka.onrender.com/dashboard">live app ↗</a></sub></p></p>
     </td>
   </tr>
 </table>
