@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/M.Sc._SE_%26_AI_(in_progress)-1f2328?style=flat-square&logo=googlescholar&logoColor=white" alt="M.Sc. Software Engineering and AI, in progress">
   <img src="https://img.shields.io/badge/University_of_Belgrade,_FON-1f2328?style=flat-square&logo=bookstack&logoColor=white" alt="University of Belgrade, FON">
 </p>
+
 Software engineering graduate from the University of Belgrade (FON, 2026), now back for a master's
 specializing in Software Engineering and Artificial Intelligence. I like building things end to end:
 REST APIs and relational databases underneath, React and Next.js on top, and more and more LLM-powered
@@ -17,7 +18,7 @@ logic in between.
 My resume has the short version.
 Here's what I've actually been building lately.
  
-Right now I'm an **AI-First Developer Intern at Appworks**, working on the AI layer of a production
+Right now I'm an **AI Developer Intern at Appworks**, working on the AI layer of a production
 Flask middleware: speech-to-text, translation, subtitles, speaker diarization and dubbing for a media client...
 For my bachelor’s thesis, I used an LLM to read 11,713 IT job ads, mapped which technologies show up together, and built a recommender that suggests what to learn next based on what you already know.
 On the side, I maintain FON Raspored, a schedule app that peaks around 2,500 daily visits from students at my faculty, and I’m building the ordering system for my family’s pancake restaurant.
@@ -131,5 +132,5 @@ Real-time client/server communication, authentication, and database-backed opera
 |---|---|
 | **M.Sc. Information Systems and Technologies**, specialization in Software Engineering and AI, University of Belgrade, FON | 2026 - present |
 | **B.Sc. Information Systems and Technologies**, specialization in Software Engineering, University of Belgrade, FON | 2022 - 2026 |
-| **AI-First Developer Intern**, Appworks *(AI layer of a production Flask middleware for media processing)* | 2026 - present |
+| **AI Developer Intern**, Appworks *(AI layer of a production Flask middleware for media processing)* | 2026 - present |
 | **Co-owner & Technical Lead**, Glumac Plus *(family pancake restaurant; building its ordering system)* | 2023 - present |
